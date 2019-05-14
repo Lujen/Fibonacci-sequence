@@ -1,0 +1,20 @@
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe.config
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.pdb
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csprojResolveAssemblyReference.cache
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg_Fibonacciego.Form1.resources
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg_Fibonacciego.Properties.Resources.resources
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.GenerateResource.Cache
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.CoreCompileInputs.cache
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.exe
+C:\Users\Minge\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.pdb
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe.config
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.pdb
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csprojAssemblyReference.cache
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg_Fibonacciego.Form1.resources
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg_Fibonacciego.Properties.Resources.resources
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.GenerateResource.cache
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.CoreCompileInputs.cache
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.exe
+C:\Users\julek\Studia\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.pdb
